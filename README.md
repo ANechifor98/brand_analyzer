@@ -1,1 +1,1 @@
-# brand_analyzer app that I developed in third year
+# Brand Analyzer App that I developed in third year
